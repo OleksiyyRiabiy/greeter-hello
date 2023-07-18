@@ -9,7 +9,7 @@ The function the greets you!
 Then...
 
 ```
-import { greeter } from 'greeter';
+import greeter from 'greeter-hello';
 
 greeter('Oleksii');
 ```
