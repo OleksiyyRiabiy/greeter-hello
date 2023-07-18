@@ -1,3 +1,5 @@
-export function greeter(name) {
+function greeter(name) {
   console.log(`Hello, ${name}`)
 }
+
+module.exports = greeter
