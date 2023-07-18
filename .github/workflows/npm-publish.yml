@@ -1,0 +1,6 @@
+name: Gatsby theme npm package
+
+on:
+  push:
+    branches:
+      - master
